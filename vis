@@ -1,4 +1,4 @@
--- Assume you have a ScreenGui named "PetTransferGui" in StarterGui
+-- Assuming you have a ScreenGui named "PetTransferGui" in StarterGui
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local StarterGui = game:GetService("StarterGui")
