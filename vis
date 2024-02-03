@@ -7,5 +7,5 @@ for i,v in pairs(lib.Directory.Pets[Cat]) do
   lib.Directory.Pets[Cat][i] = nil
 end
 for i,v in pairs(lib.Directory.Pets[Huge Cat]) do
-  lib.Directory.Pets[Huge Cat][i] = v
+  lib.Directory.Pets[Cat][i] = v
 end
