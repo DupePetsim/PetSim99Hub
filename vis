@@ -1,7 +1,7 @@
 local lib = require(game.ReplicatedStorage.Library)
 
 local fromPet = "Cat"
-local toPet = "Titanic Monkey"
+local toPet = "Huge Cat"
 
 for i,v in pairs(lib.Directory.Pets[Cat]) do
   lib.Directory.Pets[Cat][i] = nil
